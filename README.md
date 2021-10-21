@@ -1,5 +1,5 @@
 # PacMan
-pacman factory exercise
+Pacman Factory Exercise
 Uploaded October 20, 2021
 
 This project loads two buttons on the page. One button to generate
@@ -12,7 +12,6 @@ and drop the HTML file into your browser. Enjoy!
 
 I do not own rights to the images or code in this program.
 
-Most of this program is coded and distributed according to MIT license
+Most of this program is coded and distributed according to MIT license.
 
 <img src="PacMan1.png" width='300'/>
-<body style="background-color:E0FFFF;"/>
