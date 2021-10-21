@@ -11,3 +11,7 @@ To run this program download all files into a single folder, then drag
 and drop the HTML file into your browser. Enjoy!
 
 I do not own rights to the images or code in this program.
+
+Most of this program is coded and distributed according to MIT license
+
+https://publicdomainvectors.org/tn_img/mbtwms_Pacman.png
