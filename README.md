@@ -12,6 +12,8 @@ and drop the HTML file into your browser. Enjoy!
 
 I do not own rights to the images or code in this program.
 
-Most of this program is coded and distributed according to MIT license.
+This program is coded and distributed according to MIT license.
+MIT License:
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 <img src="PacMan1.png" width='300'/>
